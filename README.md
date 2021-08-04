@@ -1,6 +1,6 @@
 # Köpguide MTB
 
-Den här guiden riktar sig till dig som tidigare har cyklat på vanliga stadscyklar och nu blivit intresserad av att cykla mtb som motion, hobby eller för att komma ut i naturen. Här är ett försök att samla svaren på några av de vanligaste frågorna och reda ut lite grundläggande begrepp.
+Den här guiden riktar sig till dig som tidigare har cyklat på vanliga stadscyklar och nu blivit intresserad av att cykla mtb som motion, hobby eller för att komma ut i naturen. Här är ett försök att samla svaren på några av de vanligaste frågorna och reda ut lite grundläggande begrepp. Fokus ligger på instegs- och mellansegmentet så mer exotiska märken och lösningar tas inte upp.
 
 
 ## [happyride.se](https://happyride.se/)
@@ -97,7 +97,7 @@ En lite kraftigare version av XC-cykeln. Mer dämpning och kraftigare byggd för
 
 * Trail, Stigcykel
 
-Allt-i-allo, byggd lika mycket för en längre fjälltur som för att åka utför de flesta spåren i en cykelpark. Inte bäst på något men inte sämst heller. Ofta 120-150 mm dämpning.
+Allt-i-allo, byggd lika mycket för en längre fjälltur eller de lokala stigarna som för att åka utför de flesta spåren i en cykelpark. Ofta 120-150 mm dämpning.
 
 * Enduro, All-mountain
 
@@ -150,7 +150,7 @@ Om du har hittat en cykelmodell som verkar intressant kommer här en checklista 
 
 * Gaffeln bör ha Boost 15x110 mm genomgående axel för framnavet.
 * De flesta cyklar kommer med en dämpargaffel från RockShox eller Fox. De har gafflar för alla cykeltyper i alla prisklasser utom det absoluta budgetsegmentet. Tillgången till service och reservdelar är mycket god.
-* Mindre vanliga märken är Öhlins, Marzocchi (ägs av Fox), Manitou, DVO och X-Fusion. Det är också bra gafflar men det kan vara svårare att hitta service och reservdelar.
+* Mindre vanliga märken är Marzocchi (ägs av Fox), Manitou, DVO och X-Fusion. Det är också bra gafflar men det kan vara svårare att hitta service och reservdelar.
 * SR Suntour tillverkar hela spannet från toppengafflar för tävlingscyklister till det absoluta bottenskrapet för budgetcyklar. På den svenska marknaden återfinns tyvärr bara deras allra sämsta gafflar med stålfjädring. De är tunga, saknar grundläggande justeringsmöjligheter, presterar dåligt från fabrik och slits fort. Tillgången till reservdelar är i princip obefintlig — å andra sidan går inte speciellt mycket att göra med dem. Undvik.
 * Som ett absolut minimum vill du ha en fjäder som kan ställas in efter din vikt och på en instegscykel innebär detta en luftfjäder. Den kan justeras genom att trycket ändras med en dämparpump. Köper du i en lokal cykelbutik hjälper de dig med grundläggande inställning, annars finns bra guider från tillverkaren och t ex på YouTube.
 * På andra plats är kontroll över återfjädring (rebound) och kompression. Kan du justera tryck, återfjädring och kompression kommer du att kunna ställa in dämparen så att den passar dig och din åkstil.
@@ -181,7 +181,7 @@ Om du har hittat en cykelmodell som verkar intressant kommer här en checklista 
 * Det går även bra att blanda de flesta komponenterna mellan Shimanogrupperna.
 * Det går till viss del att blanda komponenter från olika tillverkare, men det kan innebära att du tappar växlingsprestanda.
 * 12-växlat är idag standard på allt utom de billigaste cyklarna, men att gå ner till 11 växlar behöver inte innebära någon större uppoffring.
-* Bakväxeln bör ha en släpkoppling (clutch) som gör att kedjan hålls spänd även i skumpig terräng, vilket minimerar risken för att den hoppar av. Alla växelgrupper listade här ovan har en.
+* Bakväxeln bör ha en släpkoppling (clutch) som gör att kedjan hålls spänd även i skumpig terräng, vilket minimerar risken för att den hoppar av eller slår i ramen. Alla växelgrupper listade här ovan har en.
 * Framdrevet bör vara av typen narrow/wide, där varannan kugge är bred och varannan smal, vilket matchar länkarna i kedjan. Det hjälper också kedjan att sitta kvar i stökig terräng.
 
 
