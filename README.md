@@ -58,7 +58,7 @@ Något som kanske inte är uppenbart är att stötdämpare måste ställas in f�
 
 ## Budget
 
-För en hardtail med instegskomponenter får du räkna med knapp 10000 kr, för en heldämpad ca 20-25000 kr. När man går upp till cyklar med dyrare komponenter får man generellt sett lägre vikt, mer justerbarhet, högre prestanda och mer exklusiva material.
+För en hardtail med instegskomponenter får du räkna med knappt 10000 kr, för en heldämpad ca 20-25000 kr. När man går upp till cyklar med dyrare komponenter får man generellt sett lägre vikt, mer justerbarhet, högre prestanda och mer exklusiva material.
 
 Det finns cyklar för betydligt mindre pengar men de kommer med enklare komponenter avsedda för vanliga pendlarcyklar och är inte byggda för att tåla de påfrestningar som det innebär att cykla i avancerad terräng.
 
