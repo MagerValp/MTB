@@ -187,7 +187,7 @@ Om du har hittat en cykelmodell som verkar intressant kommer här en checklista 
 
 ## Bromsar
 
-* Cykeln skall ha hydrauliska skivbromsar. Mekaniska skivbromsar och fälgbromsar fungerar mycket sämre en hydrauliska.
+* Cykeln skall ha hydrauliska skivbromsar. Mekaniska skivbromsar och fälgbromsar fungerar mycket sämre än hydrauliska.
 * Bromsok kan ha antingen två eller fyra bromskolvar. Fyrkolvsok ger mer bromskraft, bättre kontroll (modulering) och tappar inte bromskraft på samma sätt vid längre utförsåkning.
 * Bromsskivor för cyklar som tas upp här är 160, 180 eller 200/203 mm. Större skiva innebär mer bromskraft, men högre vikt — ibland sätter man en mindre bromsskiva bak för att spara vikt.
 * Bromsbelägg är antingen av harts (resin) eller sintrade (metalliska). Metallbelägg nyper hårdare och håller längre, men kan låta mer.
