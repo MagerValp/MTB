@@ -80,6 +80,7 @@ Cykling i terräng innebär helt andra påfrestningar på cykeln än vanlig pend
 
 Stötdämpare behöver regelbundet underhåll för att fortsätta fungera. De måste rengöras och torkas av efter varje cykeltur, och med ett visst intervall (t ex efter 50 cyklade timmar) skall en mindre service göras där man byter olja och gör rent. Med längre intervall (t ex efter 200 timmar) skall en större service göras och vissa interna delar bytas ut, vilket i vissa fall kräver specialverktyg. Undlåtenhet att sköta dämparservice försämrar prestandan och förkortar livslängden. Dämparna är ofta de enskilt dyraste komponenterna på cykeln och om du köper begagnat vill du veta vilken service som har gjorts, när och av vem.
 
+Byte av slitagedelar är ett gyllene tillfälle att uppgradera cykeln. T ex är däcken som följer med ibland ett par enklare allrounddäck och när du slitit ut det första paret kan du satsa på ett par kvalitetsdäck anpassade för de förhållanden som du brukar köra i.
 
 
 # Cykeltyper
