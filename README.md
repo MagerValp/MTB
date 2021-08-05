@@ -1,6 +1,6 @@
-# Köpguide MTB
+# Köpguide MTB 2021
 
-Den här guiden riktar sig till dig som tidigare har cyklat på vanliga stadscyklar och nu blivit intresserad av att cykla mtb som motion, hobby eller för att komma ut i naturen. Här är ett försök att samla svaren på några av de vanligaste frågorna och reda ut lite grundläggande begrepp. Fokus ligger på instegs- och mellansegmentet så mer exotiska märken och lösningar tas inte upp.
+Den här guiden riktar sig till dig som tidigare har cyklat på vanliga stadscyklar och som 2021 blivit intresserad av att cykla mtb som motion, hobby eller för att komma ut i naturen. Här är ett försök att samla svaren på några av de vanligaste frågorna och reda ut lite grundläggande begrepp. Fokus ligger på instegs- och mellansegmentet så mer exotiska märken och lösningar tas inte upp.
 
 
 ## [happyride.se](https://happyride.se/)
