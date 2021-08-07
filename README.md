@@ -193,6 +193,7 @@ Om du har hittat en cykelmodell som verkar intressant kommer här en checklista 
 * Bromsskivor för cyklar som tas upp här är 160, 180 eller 200/203 mm. Större skiva innebär mer bromskraft, men högre vikt — ibland sätter man en mindre bromsskiva bak för att spara vikt.
 * Bromsbelägg är antingen av harts (resin) eller sintrade (metalliska). Metallbelägg nyper hårdare och håller längre, men kan låta mer.
 * Billigare bromsskivor och enklare bromsok kan bara användas med resinbelägg.
+* Se till att bromshandtagen går att justera så att de sitter långt in på styret (ofta tvärt emot hur de är monterade på billiga cyklar). Du skall ha tre fingrar som greppar om styret och pekfingerknogen skall nå längst ut på bromshandtaget, för maximal kraft.
 
 
 ## Hjul
