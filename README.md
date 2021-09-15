@@ -5,7 +5,7 @@ Den här guiden riktar sig till dig som tidigare har cyklat på vanliga stadscyk
 
 ## [happyride.se](https://happyride.se/)
 
-På [happyride.se](https://happyride.se/) hittar du artiklar om cykling och ett forum där du kan få råd och hjälp. Det dyker nästan dagligen upp nya forumtrådar om köpråd, så titta gärna på vad folk har frågat om de senaste veckorna för att få tips — troligtvis letar någon efter en likadan cykel som du gör.
+På [happyride.se](https://happyride.se/) hittar du artiklar om cykling och ett forum där du kan få råd och hjälp. Det dyker nästan dagligen upp nya forumtrådar om köpråd, så titta gärna på vad folk har frågat om de senaste veckorna för att få tips — kanske letar någon efter en likadan cykel som du gör.
 
 
 # Innehåll
