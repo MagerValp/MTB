@@ -167,7 +167,7 @@ Om du har hittat en cykelmodell som verkar intressant kommer här en checklista 
 * Sedan bakväxlar med 11 och 12 växlar introducerades behöver man inte längre en framväxel, vilket sparar vikt, minskar underhållet och friar upp utrymme på styret för ett dropper-reglage.
 * De flesta cyklar har växlar från Shimano eller SRAM, som båda har växelgrupper för alla cykeltyper i alla prisklasser.
 * Shimanos växelgrupper utan framväxel från billigaste till dyraste:
-	* Deore M4000/M5000/M6000
+	* Deore M41xx/M51xx/M61xx
 	* SLX
 	* XT
 	* XTR
@@ -182,7 +182,7 @@ Om du har hittat en cykelmodell som verkar intressant kommer här en checklista 
 * Det går även bra att blanda de flesta komponenterna mellan Shimanogrupperna.
 * Det går till viss del att blanda komponenter från olika tillverkare, men det kan innebära att du tappar växlingsprestanda.
 * 12-växlat är idag standard på allt utom de billigaste cyklarna, men att gå ner till 11 växlar behöver inte innebära någon större uppoffring.
-* Bakväxeln bör ha en släpkoppling (clutch) som gör att kedjan hålls spänd även i skumpig terräng, vilket minimerar risken för att den hoppar av eller slår i ramen. Alla växelgrupper listade här ovan har en.
+* Bakväxeln bör ha en släpkoppling (clutch) som gör att kedjan hålls spänd även i skumpig terräng, vilket minimerar risken för att den hoppar av eller slår i ramen. Alla växelgrupper listade här ovan har en, utom Deore M4120.
 * Framdrevet bör vara av typen narrow/wide, där varannan kugge är bred och varannan smal, vilket matchar länkarna i kedjan. Det hjälper också kedjan att sitta kvar i stökig terräng.
 
 
